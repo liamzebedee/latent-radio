@@ -1,36 +1,22 @@
-# vue-project
+# latent-radio
 
-This template should help get you started developing with Vue 3 in Vite.
+Built in like ~6hrs (+ a rewrite once from React to Vue).
 
-## Recommended IDE Setup
+Autonomous vibe navigation of latent space - generate images, transition them calmly, listen to music.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![](./Untitled/Untitled.001.jpeg)
+![](./Untitled/Untitled.002.jpeg)
+![](./Untitled/Untitled.003.jpeg)
+![](./Untitled/Untitled.004.jpeg)
+![](./Untitled/Untitled.005.jpeg)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## Setup.
 
 ```sh
 npm install
+npm run server
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-
-
-
-
+## Ideas.
 
 https://fastsdxl.ai# vibeexplorer
